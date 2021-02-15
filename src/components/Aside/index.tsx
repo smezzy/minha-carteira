@@ -51,7 +51,7 @@ const Aside: React.FC = () => {
         toggleTheme();
     }
 
-    //bosta
+    
     return (
         <Container menuIsOpen={toggleMenuIsOpened}>
             <Header>
