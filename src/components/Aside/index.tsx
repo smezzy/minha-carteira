@@ -51,6 +51,7 @@ const Aside: React.FC = () => {
         toggleTheme();
     }
 
+    //bosta
     return (
         <Container menuIsOpen={toggleMenuIsOpened}>
             <Header>
@@ -62,7 +63,6 @@ const Aside: React.FC = () => {
                 <LogImg src={logoImg} alt="Logo da minha marca" /> 
                 <Title> Minha Carteira </Title>
             </Header>
-
             <MenuContainer>
             
                 <MenuItemDiv>
